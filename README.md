@@ -1,2 +1,2 @@
-# PythonApps
- Mini python apps
+# Simple Python Apps
+My python apps
