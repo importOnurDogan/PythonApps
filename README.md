@@ -1,2 +1,2 @@
 # Simple Python Apps
-My python apps
+These are my begging level apps made with Python.
